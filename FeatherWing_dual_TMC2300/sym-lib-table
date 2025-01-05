@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "vmotor")(type "KiCad")(uri "/home/stefan/mydata/github/FeatherWing_dual_TMC2300/vmotor.kicad_sym")(options "")(descr ""))
+)
